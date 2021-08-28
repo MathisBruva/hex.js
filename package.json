@@ -1,24 +1,26 @@
 {
   "name": "hex.js",
-  "version": "1.0.1",
-  "description": "Trying to hex strings but can't? This module help you out.",
+  "version": "2.0.2",
+  "description": "Easily turn your text into hex key",
   "main": "index.js",
   "scripts": {
     "test": "node test/test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MathisBruva/hex.js.git"
+    "url": "git+https://github.com/Araysh/hex.js.git"
   },
   "keywords": [
     "hex",
     "hex-string",
-    "strings"
+    "strings",
+    "hex-text",
+    "text"
   ],
   "author": "KyleMods",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MathisBruva/hex.js/issues"
+    "url": "https://github.com/Araysh/hex.js/issues"
   },
-  "homepage": "https://github.com/MathisBruva/hex.js#readme"
+  "homepage": "https://github.com/Araysh/hex.js#readme"
 }
